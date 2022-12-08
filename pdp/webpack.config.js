@@ -47,7 +47,7 @@ module.exports = {
         home: "home@https://microfrontend-sage.vercel.app/remoteEntry.js",
         pdp: "pdp@https://mf-dump-pdp.vercell.app/remoteEntry.js",
         cart: "cart@https://cart-mf.vercell.app/remoteEntry.js",
-        addtocart: "addtocart@https://addtocart-mf.vercell.app/remoteEntry.js",
+        addtocart: "addtocart@https://addtocart-mf.vercel.app/remoteEntry.js",
       },
       exposes: {
         "./PDPContent": "./src/PDPContent.jsx",
